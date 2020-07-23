@@ -8,5 +8,5 @@ Instructions:
 4. Navigate to the folder where you have dowloaded the above files.(using cd <path_name> comand)
 5. To start the node server on your local host run the "node app.js command". It will tell you the port on which the server is running.
 6. Go to your browser and type https://localhost:2000.
-7. You will se a web page asking for the country name.
+7. You will see a web page asking for the country name.
 8. Type name of any country and get the latest covid 19 updates.
