@@ -1,7 +1,7 @@
 # CovidUpdate
 A web based app to display coronavirus cases by country name.
-Instructions:
 
+Instructions:
 1. Download all the files of the project to your local storage.
 2. Make sure that you have node installed in your pc.
 3. Open comand prompt/windows terminal/Bash shell whichever you like.
